@@ -1,2 +1,3 @@
-# Conta-Banc-ria
-Programa de conta bancária básico em python
+# Conta Bancária
+
+Programa feito para simular uma conta bancária usando funções em python.
